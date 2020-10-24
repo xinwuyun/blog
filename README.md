@@ -4,6 +4,11 @@
 
 2017-07-15 起，博客已经完美转换到 [Hexo][hexo]。之前的源文件可在 [wordpress][wordpressbranch] 分支找到 。具体转换过程见：Wordpress to Hexo[(1)][wptohexo1]，[(2)][wptohexo2]。
 
+```
+line 1
+line 2
+```
+
 [wordpressbranch]: https://github.com/zrong/blog/tree/wordpress
 [hexobranch]: https://github.com/zrong/blog/tree/hexo
 [hexotohugo]: https://blog.zengrong.net/post/hexo-to-hugo/
